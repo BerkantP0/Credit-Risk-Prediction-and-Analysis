@@ -9,49 +9,49 @@ The dataset used in this project is sourced from Kaggle, titled [Credit Risk Dat
 The project involves several steps:
 
 1.Data Cleaning and Preprocessing:
-
- • Loading the dataset (credit_risk_dataset.csv) into a Pandas DataFrame.
  
- • Checking for missing values and dropping rows with missing data.
+  • Loading the dataset (credit_risk_dataset.csv) into a Pandas DataFrame.
  
- • Encoding categorical variables using one-hot encoding.<div/>
+  • Checking for missing values and dropping rows with missing data.
+ 
+  • Encoding categorical variables using one-hot encoding.<div/>
  
 
 2.Exploratory Data Analysis (EDA):
  
- • Visualizing the distribution of loan status.
+  • Visualizing the distribution of loan status.
  
- • Examining feature correlations using a heatmap.<div/>
-
+  • Examining feature correlations using a heatmap.<div/>
+ 
 3.Model Building:
 
- • Splitting the dataset into training and testing sets.
+  • Splitting the dataset into training and testing sets.
  
- • Training a Random Forest Classifier on the training data.
- 
- • Evaluating the model using accuracy, ROC-AUC score, and F1 score on the test set.<div/>
+  • Training a Random Forest Classifier on the training data.
+  
+  • Evaluating the model using accuracy, ROC-AUC score, and F1 score on the test set.<div/>
 
 4.Hyperparameter Tuning:
 
-• Performing a grid search using cross-validation to optimize model parameters (number of estimators, maximum depth, and minimum samples split).
+ • Performing a grid search using cross-validation to optimize model parameters (number of estimators, maximum depth, and minimum samples split).
 
-• Selecting the best model based on ROC-AUC score.<div/>
+ • Selecting the best model based on ROC-AUC score.<div/>
 
 5.Feature Importance:
 
-• Visualizing feature importances of the best model using a bar plot.<div/>
+ • Visualizing feature importances of the best model using a bar plot.<div/>
 
 # Requirements
 
-Python 3.x
+ • Python 3.x
 
-Pandas
+ • Pandas
 
-NumPy
+ • NumPy
 
-Scikit-learn
+ • Scikit-learn
 
-Matplotlib
+ • Matplotlib
 
-Seaborn
+ • Seaborn
 <div/>
