@@ -10,7 +10,7 @@ Model Selection and Optimization: Selected the best-performing model and optimiz
 Evaluation and Presentation of Results: Presented model outcomes with meaningful reports and visualizations, along with strategic recommendations for the credit assessment process.
 
 # Technologies Used
-Python
+Python <div/>
 Jupyter Notebook
 Machine learning libraries such as Scikit-learn, XGBoost
 Visualization libraries including Matplotlib, Seaborn
