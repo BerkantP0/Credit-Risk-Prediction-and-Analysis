@@ -7,7 +7,7 @@ The dataset used in this project is sourced from Kaggle, titled [Credit Risk Dat
 ## Project Overview
 The project involves several steps:
 
-1.Data Cleaning and Preprocessing:<div/>
+1.Data Cleaning and Preprocessing:
 
  • Loading the dataset (credit_risk_dataset.csv) into a Pandas DataFrame.<div/>
  • Checking for missing values and dropping rows with missing data.<div/>
