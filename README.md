@@ -8,20 +8,20 @@ The dataset used in this project is sourced from Kaggle, titled [Credit Risk Dat
 
 The project involves several steps:
 
--.Data Cleaning and Preprocessing:
+1.Data Cleaning and Preprocessing:
 
  • Loading the dataset (credit_risk_dataset.csv) into a Pandas DataFrame.
  
  • Checking for missing values and dropping rows with missing data.
  
- • Encoding categorical variables using one-hot encoding.
+ • Encoding categorical variables using one-hot encoding.<div/>
  
 
 2.Exploratory Data Analysis (EDA):
  
  • Visualizing the distribution of loan status.
  
- • Examining feature correlations using a heatmap.
+ • Examining feature correlations using a heatmap.<div/>
 
 3.Model Building:
 
@@ -29,17 +29,17 @@ The project involves several steps:
  
  • Training a Random Forest Classifier on the training data.
  
- • Evaluating the model using accuracy, ROC-AUC score, and F1 score on the test set.
+ • Evaluating the model using accuracy, ROC-AUC score, and F1 score on the test set.<div/>
 
-4.Hyperparameter Tuning:<div/>
+4.Hyperparameter Tuning:
 
 • Performing a grid search using cross-validation to optimize model parameters (number of estimators, maximum depth, and minimum samples split).
 
-• Selecting the best model based on ROC-AUC score.
+• Selecting the best model based on ROC-AUC score.<div/>
 
-5.Feature Importance:<div/>
+5.Feature Importance:
 
-• Visualizing feature importances of the best model using a bar plot.
+• Visualizing feature importances of the best model using a bar plot.<div/>
 
 # Requirements
 
@@ -54,3 +54,4 @@ Scikit-learn
 Matplotlib
 
 Seaborn
+<div/>
