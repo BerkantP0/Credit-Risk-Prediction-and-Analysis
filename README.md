@@ -29,7 +29,7 @@ The project involves several steps:
  
   • Training a Random Forest Classifier on the training data.
   
-  • Evaluating the model using accuracy, ROC-AUC score, and F1 score on the test set.<div/>
+  • Evaluating the model using accuracy, ROC-AUC score, and F1 score on the test set.
 
 4.Hyperparameter Tuning:
 
@@ -39,7 +39,7 @@ The project involves several steps:
 
 5.Feature Importance:
 
- • Visualizing feature importances of the best model using a bar plot.<div/>
+ • Visualizing feature importances of the best model using a bar plot.
 
 # Requirements
 
